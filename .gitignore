@@ -1,0 +1,12 @@
+# Ignore presentation and photos
+Markitan/
+
+# Ignore Open Design
+Open Design/
+
+# System / Cache files
+.DS_Store
+.antigravitycli/
+
+# Backup folders of git repositories
+**/.git_backup/
